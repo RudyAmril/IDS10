@@ -1,0 +1,9 @@
+{
+    "UDP_FLOOD_THRESHOLD": 1000,
+    "TCP_SYN_FLOOD_THRESHOLD": 2000,
+    "ICMP_FLOOD_THRESHOLD": 5000,
+    "BRUTE_FORCE_THRESHOLD": 5,
+    "network_interface": "ens33",
+    "telegram_chat_id": "5069649818",
+    "telegram_bot_token": "7496463610:AAFnkmcyyqYQxtfyPbQ9CS6f392hAKuV4wk"
+}
